@@ -20,8 +20,6 @@ public class TestmbgApplicationTests {
         testDao.insert(lk);
         System.out.println("1231");
         System.out.println("1231231");
-
-
     }
 
 }
