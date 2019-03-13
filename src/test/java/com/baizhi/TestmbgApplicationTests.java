@@ -19,6 +19,7 @@ public class TestmbgApplicationTests {
         Test1 lk = new Test1(1, "lk", 1, 18);
         testDao.insert(lk);
         System.out.println("1231");
+        System.out.println("1231231");
 
 
     }
