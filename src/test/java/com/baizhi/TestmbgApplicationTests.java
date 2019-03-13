@@ -18,6 +18,7 @@ public class TestmbgApplicationTests {
     public void contextLoads() {
         Test1 lk = new Test1(1, "lk", 1, 18);
         testDao.insert(lk);
+        System.out.println("1231");
 
 
     }
